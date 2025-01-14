@@ -1,4 +1,5 @@
 Name: Simen and Johannes
 Favorite Programming Language: Python
 Favorite vegetable: Onion
-Dislikes the most: Board games
+Likes the most: Board games
+Mood: Annoyed

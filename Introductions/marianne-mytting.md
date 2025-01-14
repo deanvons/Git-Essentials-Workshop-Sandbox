@@ -1,4 +1,4 @@
 Name: Marianne Mytting :sparkles:
-Mood: Happy
-Favorite vegetable: carrot
-Favourite pizza topping: pineapple
+Mood: Excited
+Favorite vegetable: avocado
+I cant talk to ANYONE on the phone

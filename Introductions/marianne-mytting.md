@@ -1,3 +1,3 @@
 Name: Marianne Mytting :sparkles:
-Mood: Happy
-Favorite vegetable: carrot
+Mood: Annoyed
+Favorite vegetable: avocado

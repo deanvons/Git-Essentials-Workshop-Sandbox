@@ -1,3 +1,4 @@
 Name: Marianne Mytting :sparkles:
-Mood: Happy
-Favorite vegetable: carrot
+Mood: Excited
+Favorite vegetable: avocado
+I cant talk to ANYONE on the phone

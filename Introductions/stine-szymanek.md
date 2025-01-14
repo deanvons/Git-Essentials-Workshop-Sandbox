@@ -1,4 +1,5 @@
 Name: Stine Szymanek
-Mood: Happy
+Mood: Excited
 Favorite vegetable: Bell pepper
 Favourite pizza topping: pineapple
+Fun fact: git pull --rebase

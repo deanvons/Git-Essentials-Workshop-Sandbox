@@ -1,4 +1,4 @@
 Name: Stine Szymanek
-Mood: Happy
+Mood: annoyed
 Favorite vegetable: Bell pepper
-Favourite pizza topping: pineapple
+Favourite pizza topping: pepperoni

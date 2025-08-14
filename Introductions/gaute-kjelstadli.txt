@@ -1,5 +1,6 @@
 Name: Gaute
 Facts: I like fitness and reading
-Mood: Annoyed
+Mood: Excited
 Favourite vegetable: potato
 Favourite pizza topping: Pepperoni
+New fact: I can do a muscle-up

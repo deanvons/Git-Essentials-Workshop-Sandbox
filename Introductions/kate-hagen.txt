@@ -1,5 +1,10 @@
 Name: Kate Hagen
 I enjoy working out, reading, taking long walks
+<<<<<<< HEAD
 Mood: Excited
 Favorite vegetable: Broccoli
 New fact: I have aphantasia
+=======
+Mood: Annoyed
+Favorite vegetable: Carrots
+>>>>>>> main

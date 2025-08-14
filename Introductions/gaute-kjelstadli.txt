@@ -2,3 +2,4 @@ Name: Gaute
 Facts: I like fitness and reading
 Mood: happy
 Favourite vegetable: potato
+Favourite pizza topping: Pepperoni

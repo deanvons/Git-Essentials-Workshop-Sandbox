@@ -1,0 +1,3 @@
+Mood: Happy
+Favorite vegetable: Aubergine
+Fun fact: I'm learning git

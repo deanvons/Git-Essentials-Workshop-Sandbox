@@ -1,2 +1,3 @@
-Mood: Frustrated
+Mood: LG
 Favorite vegetable: Tomato
+Favorite pizza topping: Cheese

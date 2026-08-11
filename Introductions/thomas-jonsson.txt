@@ -3,3 +3,4 @@ hello, nice to meet you :)
 Mood: Excited
 Favorite vegetable: Aubergine
 also likes tomato
+Favorite vegetable: Potato

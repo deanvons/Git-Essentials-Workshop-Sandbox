@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 Fun fact: Jeg har pollenallergi
 Fun fact: Jeg er 179.5 høy, men forteller alle at jeg er 1.80  
-Mood: Excited
-Favorite vegetable: Aubergine 
-=======
-Fun fact: Jeg har pollenallergi 
-Mood: Annoyed
-Favorite vegetable: Squash 
->>>>>>> main
+Mood: Excited 
+Favorite vegetable: Squash

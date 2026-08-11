@@ -1,5 +1,5 @@
 Name: Nicolai Andre Olsen
 I like computers.
-Mood: Happy
+Mood: annoyed
 Favorite vegetable: Banana
 I like pepperony on pizza

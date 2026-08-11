@@ -1,4 +1,5 @@
 Name: Knut Selstad
 Hobby: Gaming and training
-Mood: Sceptical
+Mood: Happy
 Favorite vegetable: Potato
+Lives: Norway
